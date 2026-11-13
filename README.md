@@ -1,7 +1,8 @@
 # Hiroshima-Bomb
 
-Este repositório não inclui um arquivo ZIP. A referência a uma “bomba ZIP de 8 TB” é apenas uma descrição; não use nem distribua arquivos destinados a causar danos ou esgotar recursos de sistemas.
+Este é um ZIP Bomb de 8TB, então, por favor, não seja burro e não extraia no seu computador, use apenas em ambiente autorizado.
 
-**Aviso:** arquivos compactados desconhecidos podem ocupar muito espaço ou consumir recursos ao serem abertos. Não os extraia em dispositivos ou sistemas de terceiros. Faça qualquer análise apenas em ambiente isolado e autorizado.
+---
+AVISO:
 
-O responsável por este repositório não se responsabiliza por danos decorrentes do uso ou da tentativa de uso de arquivos associados a este projeto. Este aviso não substitui a obrigação de agir com segurança e autorização.
+Não sou responsável por quaisquer danos à terceiros por conta deste arquivo, se tu fez merda, é problema seu 👍
